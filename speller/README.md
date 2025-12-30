@@ -1,0 +1,1 @@
+Implement a spell-checker that loads a dictionary, checks text and unloads memory efficiently.
