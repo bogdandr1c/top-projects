@@ -1,0 +1,1 @@
+Implement a ranked-choice voting system (candidates are ranked by preference).

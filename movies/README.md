@@ -1,0 +1,1 @@
+Write SQL queries to analyse a database of movies, actors and directors.
